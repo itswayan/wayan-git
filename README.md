@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wayan-git
 - 👀 I’m interested in mobile app
-- 🌱 I’m currently learning flutter and design UI for mobile app
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter and design UI for mobile apps
 - 📫 nandawayan37@gmail.com
 
 <!---
