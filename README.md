@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wayan
-- 👀 I’m interested in cyber security and sofware development
+- 👀 I’m interested in cybersecurity and sofware development
 - 🌱 I’m currently learning python
 - 📫 nandawayan31@gmail.com
 
