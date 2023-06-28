@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wayan-git
-- 👀 I’m interested in mobile app
-- 🌱 I’m currently learning flutter and design UI for mobile apps
-- 📫 nandawayan37@gmail.com
+- 👋 Hi, I’m wayan
+- 👀 I’m interested in cyber security and sofware development
+- 🌱 I’m currently learning python
+- 📫 nandawayan31@gmail.com
 
 <!---
 wayan-git/wayan-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
